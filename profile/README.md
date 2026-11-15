@@ -34,29 +34,10 @@ A few areas and projects I'm spending time exploring:
 
 | Project / Area | What it's about | Status |
 |---|---|---|
-| **HostLens** | Server monitoring and management tooling. | 🚧 In development |
 | **PegasusAC** | A security-focused anti-cheat platform for FiveM servers. | 🔬 Ongoing development |
-| **Shield WAF** | A web application firewall and hosting protection platform. | 🔬 Ongoing development |
-| **FiveM ecosystem** | Custom roleplay systems, server-side architecture, and gameplay resources. | 🛠️ Exploring |
 | **Game development** | Open-world multiplayer ideas, Godot, and dedicated-server architecture. | 💡 Research & prototyping |
 
 > Some projects are works in progress and may not have a public repository yet. This section describes development areas, not a list of released products.
-
-## `> selected repositories`
-
-<div align="center">
-
-<a href="https://github.com/GamerDev1180/College-Agenda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamerDev1180&repo=College-Agenda&theme=tokyonight&hide_border=true" alt="College-Agenda repository card">
-</a>
-<a href="https://github.com/GamerDev1180/HostLens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamerDev1180&repo=HostLens&theme=tokyonight&hide_border=true" alt="HostLens repository card">
-</a>
-<a href="https://github.com/GamerDev1180/EduVM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamerDev1180&repo=EduVM&theme=tokyonight&hide_border=true" alt="EduVM repository card">
-</a>
-
-</div>
 
 ## `> tools & technologies`
 
