@@ -66,9 +66,6 @@ These are technologies I work with or explore across my projects:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GamerDev1180&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerDev1180&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
-
 <img src="https://streak-stats.demolab.com?user=GamerDev1180&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
